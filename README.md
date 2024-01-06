@@ -5,15 +5,14 @@ Roles and Permission
 Administrator
 
   1. **User Management:**
-    - Create, modify, and deactivate user accounts.
-     
-    - Assign and manage user roles.
-     
-  3. **System Configuration:**
+     - Create, modify, and deactivate user accounts.
+     - Assign and manage user roles.
+  
+  2. **System Configuration:**
      - Configure system settings, preferences, and defaults.
      - Manage system integrations.
 
-  4. **Access Control:**
+  3. **Access Control:**
      - Define and manage access control policies.
      - Assign permissions to different user roles.
 
