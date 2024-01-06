@@ -64,8 +64,8 @@ Front Desk Staff
   1. **Patient Registration:**
       - Register new patients and update demographic information.
       - Verify insurance details.
-      - 
-    2. **Appointment Management:**
+        
+  2. **Appointment Management:**
      - Schedule, reschedule, and cancel patient appointments.
      - Access appointment schedules for providers.
 
