@@ -46,6 +46,7 @@ Nurse
 1. **Patient Records:**
    - Access and update patient demographic information.
    - View and update electronic health records (EHR) and clinical notes.
+  
   2. **Appointment Management:**
      - Schedule, reschedule, and cancel patient appointments.
      - Access own and team's appointment schedules.
