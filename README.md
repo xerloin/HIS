@@ -19,24 +19,24 @@ Administrator
 Healthcare Provider (Physician)
 
   1. **Patient Records:**
-    - Access and update patient demographic information.
-    - View and edit electronic health records (EHR) and clinical notes.
-     
-  3. **Appointment Management:**
+     - Access and update patient demographic information.
+     - View and edit electronic health records (EHR) and clinical notes.
+
+  2. **Appointment Management:**
      - Schedule, reschedule, and cancel patient appointments.
      - Access own and team's appointment schedules.
 
-  4. **Diagnoses and Treatment:**
+  3. **Diagnoses and Treatment:**
      - Enter and update diagnoses.
      - Develop and modify treatment plans.
 
-  5. **Medication Management:**
+  4. **Medication Management:**
      - Prescribe medications.
      - View and manage medication history.
     
 Nurse
 
-1. **Patient Records:**
+  1. **Patient Records:**
    - Access and update patient demographic information.
    - View and update electronic health records (EHR) and clinical notes.
   
