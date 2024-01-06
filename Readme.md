@@ -1,6 +1,6 @@
 # Hospital Information System
 
-Roles and Permission
+## User and Permission
 
 Administrator
 
