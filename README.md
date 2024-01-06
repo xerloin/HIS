@@ -6,6 +6,7 @@ Administrator
 
   1. **User Management:**
     - Create, modify, and deactivate user accounts.
+     
     - Assign and manage user roles.
      
   3. **System Configuration:**
@@ -15,14 +16,6 @@ Administrator
   4. **Access Control:**
      - Define and manage access control policies.
      - Assign permissions to different user roles.
-
-  5. **Audit and Logging:**
-     - Monitor and review system logs.
-     - Access audit trail reports.
-
-  6. **Data Management:**
-     - Oversee data backup and recovery processes.
-     - Manage data retention policies.
 
 Healthcare Provider (Physician)
 
