@@ -1,6 +1,7 @@
 # HIS
 Administrator :
 Overall user Management
+
   2. **System Configuration:**
      - Configure system settings, preferences, and defaults.
      - Manage system integrations.
