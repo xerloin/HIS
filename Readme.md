@@ -14,6 +14,17 @@
    - Back end application using Golang.
 
 5. **Workflow Hospital Information System**
+```mermaid
+flowchart TD
+
+  A(Patient) --> B(Registration) --> C(Doctor Scheduling) --> D(Diagnose) --> E(Treatment)
+  E --> F{Hospitalization}
+  F --> |Yes| G(Ward Appointment) --> H(Monitoring) --> I(Discharge) --> J(Monitoring Predischarge) --> K
+  F --> |No| K(Payment) --> L(Pickup Prescription)
+
+```
+
+
 
 ![Workflow v4](https://github.com/xerloin/HIS/assets/155693776/3eb478ef-8e07-4d5a-b89c-f5b1fb059152)
 
